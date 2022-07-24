@@ -14,5 +14,6 @@ setuptools.setup(
                         'librosa',
                         'numpy',
                         'scipy',
-                        'cython'],
+                        'cython',
+                        'huggingface_hub'],
 )
