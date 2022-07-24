@@ -1,3 +1,6 @@
 [submodule "TTS/waveglow"]
 	path = TTS/waveglow
 	url = https://github.com/NVIDIA/waveglow
+[submodule "TTS/glowtts"]
+	path = TTS/glowtts
+	url = https://github.com/jaywalnut310/glow-tts

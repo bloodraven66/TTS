@@ -7,5 +7,12 @@ setuptools.setup(
     author='Sathvik Udupa',
     author_email='sathvikudupa66@gmail.com',
     packages=['TTS'],
-    install_requires=['requests'],
+    install_requires=['requests',
+                        'unidecode',
+                        'inflect',
+                        'torch',
+                        'librosa',
+                        'numpy',
+                        'scipy',
+                        'cython'],
 )
